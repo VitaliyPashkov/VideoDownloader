@@ -1,6 +1,6 @@
 from pytube import YouTube
 
-url = input('Укажите ссылку на видео:\n')
+url = input('Укажите ссылку на видео: \n')
 
 youtube = YouTube(url)
 
