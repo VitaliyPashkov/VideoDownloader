@@ -1,4 +1,4 @@
-from pytube import YouTube
+import pytube
 
 url = input('Укажите ссылку на видео: \n')
 
